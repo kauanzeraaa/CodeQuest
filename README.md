@@ -4,4 +4,4 @@ Feito por Gustavo Miguel, João Vedroni e Kauan Piacente, CodeQuest tem como obj
 
 #
 
-CodeQuest
+CodeQuest é um WebSite com interface interativa, design e paleta de cores futuristas.
